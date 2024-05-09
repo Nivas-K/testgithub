@@ -15,3 +15,5 @@ Alumni of IIM-Bangalore
   .
 
   IIT-Bombay
+
+  GATE CA&IT
